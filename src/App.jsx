@@ -1,7 +1,10 @@
-
+import Body from "./components/Body.jsx"
 const App = () => {
   return (
-    <div className="bg-gray-300 justify-items-center"><h1>center</h1></div>
+    <div>
+    <Body/>
+    <h1>Helo upendra</h1>
+    </div>
   )
 }
 
